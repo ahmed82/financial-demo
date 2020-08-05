@@ -1,3 +1,10 @@
+## intent:search_transactions
+- how much did I spend at [Target](vendor_name) ?
+- what is my typical speding at [Amazon](vendor_name)?
+- how much did I spend at [Starbucks](vendor_name)?
+- I want to check my spending history at [Starbucks](vendor_name)
+- I wantto search my transactions with [amazon](vendor_name)
+- can I see my transactions with [target](vendor_name)
 
 
 ## intent:goodbye
