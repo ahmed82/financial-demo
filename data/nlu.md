@@ -6,6 +6,13 @@
 - I wantto search my transactions with [amazon](vendor_name)
 - can I see my transactions with [target](vendor_name)
 
+## intent:check_balance
+- how much money in my account
+- what is left on that account
+- how much do I have on that my account?
+- what's my account balance?
+- what's my account balance
+- how much money is in my account
 
 ## intent:goodbye
 - see you later
